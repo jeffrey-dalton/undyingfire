@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-ty",
+				"list-style"
+			],
+			[
+				"webkit-bor",
+				"-webkit-border-radius:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSFTP:\n----\n\n  Thanks for installing Sublime SFTP! Below are some quick notes to get you\n  started with the plugin. Please see http://wbond.net/sublime_packages/sftp for\n  the full documentation.\n  \n  \n  There are two major modes of operation:\n  1. Mapping a local folder to a remote folder\n  2. Working off of a server\n  \n  \n  Mapping a Local Folder to a Remote Folder\n  ----\n  \n  To map a local folder to a remote folder, right-click on it in the side bar\n  and select the SFTP/SFTP > Map to Remote... You will enter your connection\n  parameters and a new file will be created named sftp-config.json.\n  \n  Once this file has been saved, all files in that folder and all subfolders\n  will have various operations available via the side bar context menu, editor\n  context menu and command palette.\n  \n  \n  Working off of a Server\n  ----\n  \n  To work off of a server, use the File menu and select SFTP/FTP > Setup Server...\n  You will enter your connection parameters and options then save the file with\n  the name you want to give the connection.\n  \n  Once the server config is saved, you will be automatically connected to the\n  server and you can browse and perform actions via the quick panel.\n  \n  Unfortunely due to limitations of the Sublime Text 2 API, it is not possible\n  to present the remote filesystem in the side bar. There are, however, key\n  bindings for connecting to servers to help reduce the amount of time remote\n  file operations take.\n  \n  \n  Support\n  ----\n  \n  To learn more about the features and settings, please visit\n  http://wbond.net/sublime_packages/sftp.\n  \n  If you are having trouble, please contact me at support@wbond.net. The Support\n  page, http://wbond.net/sublime_packages/sftp/support, includes instructions\n  for capturing a debug log that will be useful if you believe you are\n  experiencing a bug.\n  \n",
+			"settings":
+			{
+				"buffer_size": 1895,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "{\n    // The tab key will cycle through the settings when first created\n    \n    // sftp, ftp or ftps\n    \"type\": \"sftp\",\n    \"sync_down_on_open\": true,\n    \n    \"host\": \"immigrationnewzealand.com\",\n    \"user\": \"username\",\n    //\"password\": \"password\",\n    //\"port\": \"22\",\n    \n    \"remote_path\": \"/example/path/\",\n    //\"file_permissions\": \"664\",\n    //\"dir_permissions\": \"775\",\n    \n    \"connect_timeout\": 30,\n    //\"ftp_passive_mode\": true,\n    //\"ssh_key_file\": \"~/.ssh/id_rsa\",\n    //\"sftp_flags\": \"-F /path/to/ssh_config\",\n    \n    //\"preserve_modification_times\": false,\n    //\"remote_time_offset_in_hours\": 0,\n    //\"remote_encoding\": \"utf-8\",\n    //\"remote_locale\": \"C\",\n}",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10288,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 50.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/undyingfire/Downloads/jdinfo7.sql",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/css/style.css",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/modules/custom/symantec_users/symantec_users.module",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/template.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/css/style.css",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/template_views_preprocess.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/modules/custom/symantec_locale/symantec_locale.module",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/templates/connect-groups-list-item.tpl.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/templates/groups-home.tpl.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/includes/common.inc",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/template.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/templates/user-profile.tpl.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/templates/groups-home.tpl.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/modules/taxonomy/taxonomy.module",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/css/style-ie8.css",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2/css/style-node-community.css",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/templates/node.tpl.php",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/modules/contrib/admin_menu/admin_menu.module",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/js/main.js",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/templates/page.tpl.php",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/includes/module.inc",
+		"/Users/undyingfire/Sites/bootstrap.local/includes/module.inc",
+		"/Users/undyingfire/Sites/bootstrap.local/sites/all/themes/twitter_bootstrap/template.php",
+		"/Users/undyingfire/Sites/bootstrap.local/sites/all/themes/twitter_bootstrap/includes/modules/menu.inc",
+		"/Users/undyingfire/Sites/bootstrap.local/sites/all/themes/twitter_bootstrap/templates/node.tpl.php",
+		"/Users/undyingfire/Sites/bootstrap.local/sites/all/themes/twitter_bootstrap/css/stylus/test-stylus.styl",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/undyingfire/Sites/bootstrap.local/sites/all/themes/twitter_bootstrap/css/stylus/testing-space.styl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/modules/custom",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile/template.php",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites",
+			"/Users/undyingfire/CLIENTS/WebWiseOne/Symantec Connect/svn_working/sites/default/themes/connect2_mobile"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"group_browse_phrase",
+			"search",
+			"employee",
+			"badge",
+			"user-role",
+			"@count",
+			"groups",
+			"$vars['groups']",
+			"groups",
+			"groups-home",
+			"connect2_setup_group_list",
+			"groups-home",
+			"symantec_nav",
+			"groups-home",
+			"choose_template",
+			"groups-home",
+			"connect2_mobile_setup_video_node",
+			"preprocess_node",
+			"red;",
+			"red",
+			"BCLPLayerBlock",
+			".",
+			"dialog_share",
+			"dialog-share",
+			"_twitter_bootstrap_local_tasks",
+			"soft"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 1895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1895,
+								1895
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								220
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/undyingfire/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers",
+							"remote_loading": false,
+							"sftp_new_server": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 10288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style.css",
+				"sites/default/themes/connect2/css/style.css"
+			],
+			[
+				"groups-home",
+				"sites/default/themes/connect2/templates/groups-home.tpl.php"
+			],
+			[
+				"template.php",
+				"sites/default/themes/connect2/template.php"
+			],
+			[
+				"connect-groups",
+				"sites/default/themes/connect2/templates/connect-groups-list-item.tpl.php"
+			],
+			[
+				"template",
+				"sites/default/themes/connect2_mobile/template.php"
+			],
+			[
+				"style",
+				"sites/default/themes/connect2_mobile/css/style.css"
+			],
+			[
+				"node.tpl",
+				"sites/all/themes/twitter_bootstrap/templates/node.tpl.php"
+			],
+			[
+				"sass",
+				"sites/all/themes/twitter_bootstrap/css/stylus/test-stylus.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/undyingfire/Sublime Projects/BootstrapD7.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
